@@ -57,6 +57,7 @@ function NavBar() {
                 <NavLink className='py-2 pl-6 border border-gray-400'onClick={()=>setisVisible(false)} to='/contact'>CONTACT</NavLink>
             </div>
         </div>
+        
     </div>
   )
 }
